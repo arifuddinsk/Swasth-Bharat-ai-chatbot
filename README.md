@@ -1,1 +1,1 @@
-swasthbharat-ai-chatbot.vercel.app
+swasthbharat-chatbot.vercel.app
